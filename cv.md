@@ -34,7 +34,6 @@ Participant EPAM online training course
 
 • “Financial academic lyceum”, Tashkent, Uzbekistan 2015 –2018
 • Major: Exact Sciences
-• Grand Point Average: 5 on 5 scale
 
 ------
 ### Languages
@@ -56,7 +55,7 @@ Participant EPAM online training course
 
 • Participated in In Touch Math 
 • Festival - Organized GDG in Tashkent
-• Volunteer in Udevs company ceremony
+
 
  -------
  
@@ -67,6 +66,6 @@ In the final of my course (Object Oriented Programming)
 • USQ(Unique Queue Solution)
 New Start up project, using platform for online queue registration, also I create mobil 
 application, website until now, I am working in this product in team.
-• Hotel Management System written in Java
+
 
  ------
